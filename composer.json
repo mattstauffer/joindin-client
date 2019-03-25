@@ -1,13 +1,13 @@
 {
-    "name": "rexxars/joindin-client",
+    "name": "tightenco/joindin-client",
     "type": "library",
     "description": "Joind.in API client, powered by Guzzle",
     "support": {
-        "issues": "https://github.com/rexxars/joind.in-client/issues"
+        "issues": "https://github.com/tightenco/joindin-client/issues"
     },
     "require": {
-        "php": ">=5.3.0",
-        "guzzle/guzzle": "3.7.1"
+        "php": ">=7.1.0",
+        "guzzlehttp/guzzle": "^6.0"
     },
     "license": "MIT",
     "authors": [
